@@ -61,8 +61,8 @@ export default function LandingPage() {
             <a href="#how-it-works" className="hidden text-[#c9d1d9] hover:text-white sm:inline">How it works</a>
             <a href="#two-docs" className="hidden text-[#c9d1d9] hover:text-white sm:inline">What you get</a>
             <a href="#faq" className="hidden text-[#c9d1d9] hover:text-white sm:inline">FAQ</a>
-            <Link href="/login" className="text-[#c9d1d9] hover:text-white">Log in</Link>
-            <Link href="/signup" className="rounded-md border border-[#30363d] bg-[#21262d] px-4 py-1.5 font-medium transition hover:border-[#8b949e] hover:bg-[#30363d] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#58a6ff]">
+            <Link href="/sign-in" className="text-[#c9d1d9] hover:text-white">Log in</Link>
+            <Link href="/sign-up" className="rounded-md border border-[#30363d] bg-[#21262d] px-4 py-1.5 font-medium transition hover:border-[#8b949e] hover:bg-[#30363d] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#58a6ff]">
               Sign up
             </Link>
           </nav>
